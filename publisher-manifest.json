@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "793f08e0dbf474465c4aefdd",
+  "owner": "udpnwkmrjse",
+  "repo": "page-585aff3c63cc6af82b84c7f2",
+  "title": "724NETWORK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "585aff3c63cc6af82b84c7f2",
+      "a": "724NETWORK",
+      "b": "",
+      "entity": "724NETWORK",
+      "brand": "724NETWORK",
+      "separator": "",
+      "path": "index.html",
+      "hash": "12bcca40f3fffc64506c043d20ab67565798508bb15155821f44eed29277bad6",
+      "content": {
+        "keyword1": "724NETWORK",
+        "keyword2": "",
+        "primary_entity": "724NETWORK",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "724NETWORK 伴你左右。我们用时间线为你梳理清晰的网络连接方案，抛开繁杂术语，只为给你带来踏实、顺畅的日常网络体验。",
+          "AI_DESCRIPTION": "724NETWORK 伴你左右。我们用时间线为你梳理清晰的网络连接方案，抛开繁杂术语，只为给你带来踏实、顺畅的日常网络体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #f3f2f8;color: #1a1a24;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside {width: 240px;background-color: #ffffff;border-right: 2px solid #1a1a24;padding: 2.5rem 1.5rem;position: fixed;height: 100vh;overflow-y: auto;display: flex;flex-direction: column;justify-content: space-between}\n.brand-title {font-size: 1.25rem;font-weight: 900;letter-spacing: -0.05em;color: #6c22a6;text-decoration: none;margin-bottom: 2rem;display: block}\n.nav-menu {list-style: none;display: flex;flex-direction: column;gap: 1rem}\n.nav-menu a {text-decoration: none;color: #4a4a5a;font-weight: 600;font-size: 0.95rem;transition: color 0.2s}\n.nav-menu a:hover {color: #6c22a6}\n.nav-footer {font-size: 0.8rem;color: #8a8a9a}\nmain {margin-left: 240px;flex: 1;padding: 3rem 4rem;max-width: 1000px}\n@media (max-width: 768px) {\n  body {flex-direction: column}\n  aside {position: relative;width: 100%;height: auto;border-right: none;border-bottom: 2px solid #1a1a24;padding: 1.5rem}\n  main {margin-left: 0;padding: 1.5rem}\n}\nsection {margin-bottom: 5rem}\nh1 {font-size: 3rem;font-weight: 900;letter-spacing: -0.03em;line-height: 1.1;margin-bottom: 1.5rem;color: #1a1a24}\nh2 {font-size: 1.8rem;font-weight: 800;margin-bottom: 1.5rem;letter-spacing: -0.02em;color: #1a1a24;border-bottom: 2px solid #1a1a24;padding-bottom: 0.5rem;display: inline-block}\np {font-size: 1.05rem;color: #4a4a5a;margin-bottom: 1.2rem}\n.timeline {position: relative;padding-left: 2rem;border-left: 3px solid #6c22a6;margin-top: 2rem}\n.timeline-item {position: relative;margin-bottom: 2.5rem}\n.timeline-item::before {content: \"\";position: absolute;left: -2.35rem;top: 0.3rem;width: 10px;height: 10px;background-color: #ffffff;border: 3px solid #6c22a6;border-radius: 50%}\n.timeline-time {font-size: 0.85rem;font-weight: 700;color: #6c22a6;text-transform: uppercase;letter-spacing: 0.05em;margin-bottom: 0.3rem}\n.card {background-color: #ffffff;border: 2px solid #1a1a24;padding: 2.5rem;margin-bottom: 2rem;box-shadow: 4px 4px 0px #1a1a24}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1rem;border-bottom: 1px dashed #d1d1db;padding-bottom: 1rem}\n.plan-name {font-size: 1.4rem;font-weight: 800}\n.plan-price {font-size: 1.5rem;font-weight: 900;color: #6c22a6}\n.plan-features {list-style: none;margin: 1.5rem 0}\n.plan-features li {margin-bottom: 0.7rem;font-size: 0.95rem;color: #4a4a5a;position: relative;padding-left: 1.2rem}\n.plan-features li::before {content: \"→\";position: absolute;left: 0;color: #6c22a6;font-weight: bold}\n.btn {display: inline-block;background-color: #1a1a24;color: #ffffff;padding: 0.8rem 1.8rem;text-decoration: none;font-weight: 700;border: 2px solid #1a1a24;transition: all 0.2s}\n.btn:hover {background-color: #6c22a6;border-color: #6c22a6}\ndetails {background-color: #ffffff;border: 2px solid #1a1a24;margin-bottom: 1rem;padding: 1.2rem 1.5rem;box-shadow: 3px 3px 0px #1a1a24;cursor: pointer}\nsummary {font-weight: 700;font-size: 1.1rem;outline: none;list-style: none;display: flex;justify-content: space-between;align-items: center}\nsummary::-webkit-details-marker {display: none}\nsummary::after {content: \"+\";font-size: 1.5rem;font-weight: 400;color: #6c22a6}\ndetails[open] summary::after {content: \"-\"}\ndetails p {margin-top: 1rem;margin-bottom: 0;font-size: 0.95rem}\n.highlight-tag {display: inline-block;background-color: #6c22a6;color: #ffffff;font-size: 0.75rem;font-weight: 700;padding: 0.2rem 0.6rem;text-transform: uppercase;margin-bottom: 0.8rem}\n</style><aside>\n  <div>\n    <a href=\"#\" class=\"brand-title\">724NETWORK</a>\n    <ul class=\"nav-menu\">\n      <li><a href=\"#hero\">连接故事</a></li>\n      <li><a href=\"#plans\">服务方案</a></li>\n      <li><a href=\"#guide\">使用指南</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </div>\n  <div class=\"nav-footer\">\n    <p>© 724NETWORK<br>稳定伴随每一刻</p>\n  </div>\n</aside>\n\n<main>\n  <section id=\"hero\">\n    <h1>724NETWORK · 随时随地，连结你的数字生活</h1>\n    <p>嘿！很高兴能在这里遇见你。如果你也曾为断断续续的网络连接、满是术语的配置文档而感到头疼，那么 724NETWORK 或许正是你一直在找的那杯热茶——简单、温暖，而且随时在线。</p>\n    \n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <div class=\"timeline-time\">第一步</div>\n        <p><strong>初识：</strong>我们抛弃了那些让人眼花缭乱的复杂参数，只用最直观的方式呈现你需要的网络支持。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-time\">第二步</div>\n        <p><strong>陪伴：</strong>无论深夜加班还是周末追剧，后台的节点都在默默守护，确保每一次点击都能顺畅抵达。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-time\">第三步</div>\n        <p><strong>安心：</strong>就像老朋友一样，不需要多说什么客套话，只要你需要，连接就在那里。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>选择适合你的方案</h2>\n    <p>我们准备了几个不同浓度的“陪伴套餐”，总有一个刚好贴合你的日常节奏。</p>\n    \n    <div class=\"card\">\n      <div class=\"plan-header\">\n        <div>\n          <span class=\"plan-name\">基础版</span>\n        </div>\n        <div class=\"plan-price\">¥15/月</div>\n      </div>\n      <p>适合日常网页浏览与偶尔的轻量内容查看，轻松无负担。</p>\n      <ul class=\"plan-features\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n      <p>按年付仅需 ¥150/年</p>\n      <a href=\"#\" class=\"btn\">选择基础版</a>\n    </div>\n\n    <div class=\"card\">\n      <span class=\"highlight-tag\">大家都在选</span>\n      <div class=\"plan-header\">\n        <div>\n          <span class=\"plan-name\">旗舰版</span>\n        </div>\n        <div class=\"plan-price\">¥35/月</div>\n      </div>\n      <p>给追求效率的你，看视频、玩游戏或是处理工作，都能游刃有余。</p>\n      <ul class=\"plan-features\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n      <p>按年付仅需 ¥350/年</p>\n      <a href=\"#\" class=\"btn\">选择旗舰版</a>\n    </div>\n\n    <div class=\"card\">\n      <div class=\"plan-header\">\n        <div>\n          <span class=\"plan-name\">团队版</span>\n        </div>\n        <div class=\"plan-price\">¥85/月</div>\n      </div>\n      <p>如果身边有一帮志同道合的小伙伴，或者你需要更大的带宽支持，选它准没错。</p>\n      <ul class=\"plan-features\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <p>按年付仅需 ¥850/年</p>\n      <a href=\"#\" class=\"btn\">选择团队版</a>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>轻松上手指南</h2>\n    <p>我们不喜欢繁琐的教程。在这里，你只需要花上三分钟，就能把连接设置妥当。</p>\n    <div class=\"card\">\n      <p><strong>1. 挑选心仪方案：</strong>根据你的日常用网习惯，在上方挑选一个最顺眼的套餐并完成订阅。</p>\n      <p><strong>2. 获取专属订阅：</strong>在你的用户中心复制专属的订阅链接，它就像是为你定制的钥匙。</p>\n      <p><strong>3. 导入客户端：</strong>打开你常用的设备客户端（支持主流各大平台），粘贴链接并更新，大功告成！</p>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <p>关于 724NETWORK，你可能还想了解这些：</p>\n\n    <details>\n      <summary>新手入门会不会很难？需要懂技术吗？</summary>\n      <p>完全不需要懂任何深奥的技术！我们提供保姆级的图文说明，你只需要复制粘贴两步就能搞定。如果在路上遇到了小卡壳，随时来找我们唠唠，大家都很乐意帮忙。</p>\n    </details>\n\n    <details>\n      <summary>如果流量用完了会怎么样？</summary>\n      <p>别担心，流量用完后网络会自动暂停，不会产生任何意外的超额扣费。如果你发现这个月的确用得比较多，随时可以在后台补购流量包或者升级套餐哦。</p>\n    </details>\n\n    <details>\n      <summary>支持在手机和电脑上同时使用吗？</summary>\n      <p>当然可以！根据你选择的套餐，支持同时在多台设备上在线。手机、平板、电脑切换着用，一个账号就能照顾到你所有的屏幕。</p>\n    </details>\n\n    <details>\n      <summary>付款后多久可以开通？</summary>\n      <p>系统是全自动处理的。只要你完成支付，专属的节点和订阅链接就会立刻发送到你的账户里，前后不过几秒钟的事，马上就能连上。</p>\n    </details>\n  </section>\n</main>",
+          "hash": "880bcfa31d1b027da69df592b16069565d4aea97e8d5cbd1f8cf7a8d8ff04ed4",
+          "seo": {
+            "title": "724NETWORK - 随时随地，连结你的数字生活",
+            "keywords": "724NETWORK, 网络加速, 专线连接, 稳定网络, 数字生活",
+            "description": "724NETWORK 伴你左右。我们用时间线为你梳理清晰的网络连接方案，抛开繁杂术语，只为给你带来踏实、顺畅的日常网络体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "3613",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ffffuf.cn",
+    "host": "p-3a9c0204d5.ffffuf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1d0ada5796ce2c3cdfb7ec533246b8711699d9dbd9622417d8b4fc9c80e455b8",
+    "sitemap.xml": "7c4a9333be8b615e526acb040d7f33c34f38376ae55fa291ccc0df0332e36d45",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de9f8713d59a112c5b5f3b79786fdb891119ebb8995de0d8da3acf6bf83ecf1a",
+    "robots.txt": "9b3642fe047bbf1fc0e15b2cfd846c94ad493000a64c217f136b2d40ffb8e2a3",
+    "b21ff93b1bc605bb9ad938319873f2a1.txt": "4688fb7fe3c1e442bad5b175e8f46777ace5bcd3cae65b69c04a26d0ae9073e6"
+  },
+  "revision": "6fcce9c4f040749d96220db8f9db4d532954e5e988887dae3a714609d3b5c49b"
+}
